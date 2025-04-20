@@ -23,6 +23,8 @@ bun install
 # Run it with Bun
 bun run index.ts
 
+# OR
+
 # Make the CLI executable if you want to 
 chmod +x index.ts
 
