@@ -67,9 +67,9 @@ if (confirmApply) {
 
     if (success) {
       const applyResult = await applyPatch(patch, numContextLines);
+      console.log("Patch applied successfully.");
     }
   } while (retry);
-  console.log("Patch applied successfully.");
 } else {
   console.log("Patch not applied.");
 }
