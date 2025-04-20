@@ -20,6 +20,9 @@ cd shoggit
 # Install dependencies
 bun install
 
+# Run it with Bun
+bun run index.ts
+
 # Make the CLI executable if you want to 
 chmod +x index.ts
 
