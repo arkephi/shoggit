@@ -1,5 +1,7 @@
 # Shoggit
 
+This project is in its very early stages so expect bugs and unimplemented features!
+
 A simple command line utility for requesting code changes from LLM providers. Shoggit allows you to describe changes you want to make to your codebase, and it will generate a Git patch using LLMs (Large Language Models) that you can review and apply to your files.
 
 ## Features
